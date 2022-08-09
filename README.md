@@ -1,0 +1,3 @@
+∙ A daily planner that uses Boostrap, Javascript, and JQuery
+∙ The planner uses moment.js and local storage to track tasks throughout the day
+∙ The user types in their task and then clicks the lock button to save it to local storage
